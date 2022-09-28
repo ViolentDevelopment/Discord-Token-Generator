@@ -1,0 +1,14 @@
+{
+    "username": {
+        "use_username_from_file": false,
+        "username_prefix": "vishaL"
+    },
+    "proxy": {
+        "proxyless": false
+    },
+    "captcha": {
+        "api": "capmonster.cloud",
+        "key": "",
+        "send_proxy": true
+    }
+}
